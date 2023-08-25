@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello World!👋, I'm Ghayoor</h1>
-<h3 align="center">🔥Passionate Full-Stack Developer from Pakistan 🇵🇰: Crafting Digital Solutions with Heart and Code 💻</h3>
+<h3 align="center">🔥Passionate Full-Stack Developer : Crafting Digital Solutions with Heart and Code 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agneta1991&label=Profile%20views&color=0e75b6&style=flat" alt="ghayoor" /> </p> <br>
 
