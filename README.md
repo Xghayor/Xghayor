@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **cc.baqir@gmail.com**
 
-- ⚡ Fun fact **Not too long ago, I thought Python was just a type of snake, and CSS was an abbreviation for "Can't Style Stuff"! Now, I'm coding like a pro and styling websites like a boss! 💻🎨🚀**
+- ⚡ Exciting Detail: **From initially thinking Python was just a snake to now architecting robust solutions, I've evolved into a coding enthusiast with a keen eye for detail and a passion for collaborative problem-solving! 💡💻**
+
+    **Crafting Excellence:** My journey into coding started with curiosity and a touch of naivety, but today, I am dedicated to writing clean, efficient code that not only solves problems but elevates user experiences. I believe in the power of collaboration and am eager to bring my skills to your team, contributing to the success of innovative projects. Let's build something extraordinary together! 🌟🚀
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
