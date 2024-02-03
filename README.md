@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xghayor" alt="ghayoor" /></a> </p> <br>
 
+- 🌐 Explore my portfolio at [Portfolio](https://ghayoor-portfolio.vercel.app/)
+
 - 👨‍💻 All of my projects are available at [GitHub.com/Xghayor](https://github.com/Xghayor)
 
 - 📫 How to reach me **cc.baqir@gmail.com**
